@@ -1,0 +1,15 @@
+{
+  "name": "export_component",
+  "version": "1.0.0",
+  "description": "An exportable ReactJS Hello World component",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/MiguhRuiz/export_component.git",
+    "type": "git"
+  },
+  "author": "Miguh Ruiz <m@miguhruiz.xyz> (https://miguhruiz.xyz)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
