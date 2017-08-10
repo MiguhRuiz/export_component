@@ -1,6 +1,6 @@
 {
   "name": "export_component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An exportable ReactJS Hello World component",
   "main": "index.js",
   "repository": {
@@ -10,6 +10,8 @@
   "author": "Miguh Ruiz <m@miguhruiz.xyz> (https://miguhruiz.xyz)",
   "license": "MIT",
   "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
     "react": "^15.6.1"
   }
 }
